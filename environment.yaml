@@ -1,0 +1,8 @@
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - jupyterlab
+  - ipython  
+variables:
+  PYTHONPATH: 
